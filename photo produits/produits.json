@@ -1,0 +1,744 @@
+[
+    {
+        "nom":"Barre de son Q-Series",
+        
+        "prixVente": 2399,
+        "prixAchat": 200,
+        
+        "couleur":"Noir",
+        "marque":"Samsung",
+        "ref":"HW-Q800T 2020",
+        "disponibilite":"en stock",
+        
+        "prixPromo":0,
+        "dateDebut":"",
+        "dateFin":"",
+
+        "images":[
+            {
+                "ordeur":"0",
+                "image":"Barre_de_son_Samsung_HW-Q800T.jpg"
+            },
+    
+            {
+                "ordeur":"1",
+                "image":"Barre_de_son_Samsung_HW-Q800T_1.jpg"
+            },
+    
+            {
+                "ordeur":"2",
+                "image":"Barre_de_son_Samsung_HW-Q800T_2.jpg"
+            },
+            
+            {
+                "ordeur":"3",
+                "image":"Barre_de_son_Samsung_HW-Q800T_3.jpg"
+            }
+        ],
+
+        
+        "descriptionsDessus":[
+            {"ligne":"Dolby Atmos"},
+            {"ligne":"3.1.2ch via technologie Acoustic Beam"},
+            {"ligne":"Assistants vocaux intégrés"},
+            {"ligne":"HDMI eARC"}
+        ],
+
+        "descriptionsDessous":[
+        
+        ],
+
+        "categories":[
+            {"categorie":"Tv-Image-Son" },
+            {"categorie":"Home-cinéma" },
+            {"categorie":"Barre de son"}
+        ],
+
+        "caracteristiques":[
+            {"caracteristique":"Samsung"},
+            {"caracteristique":"Noir"},
+            {"caracteristique":"1000Dt - 2000Dt"},
+            {"caracteristique":"Dolby Atmos"},
+            {"caracteristique":"HDMI ARC"}
+        ]
+
+    
+    },
+
+
+    {
+        "nom":"Barre de son unique",
+        
+        "prixVente": 1599,
+        "prixAchat": 200,
+        
+        "couleur":"Noir",
+        "marque":"Sony",
+        "ref":"HT-X8500",
+        "disponibilite":"en stock",
+        
+        "prixPromo":1299,
+        "dateDebut":"15/02/2021",
+        "dateFin":"15/03/2021",
+
+        "images":[
+            {
+                "ordeur":"0",
+                "image":"Barre_de_son_sony_HT-X8500.jpg"
+            },
+    
+            {
+                "ordeur":"1",
+                "image":"Barre_de_son_sony_HT-X8500_1.jpg"
+            },
+    
+            {
+                "ordeur":"2",
+                "image":"Barre_de_son_sony_HT-X8500_2.jpg"
+            },
+            {
+                "ordeur":"3",
+                "image":"Barre_de_son_sony_HT-X8500_3.jpg"
+            },
+            {
+                "ordeur":"4",
+                "image":"Barre_de_son_sony_HT-X8500_4.jpg"
+            }
+        ],
+
+        
+        "descriptionsDessus":[
+            {"ligne":"Plongez dans un son en trois dimensions grâce aux technologies Dolby Atmos et DTS:X"},
+            {"ligne":"La technologie Vertical Surround Engine propre à Sony crée une atmosphère sonore complète avec deux hauts-parleurs avants et un double caisson de basses intégré"},
+            {"ligne":"La barre de son HT-X8500 dispose de multiples possibilités de connexion à la TV : HDMI ARC, optique ou sans fil grâce au Bluetooth*, ainsi qu'un port HDMI*"},
+            {"ligne":"Adapté au format 4K HDR et à la Dolby Vision, sans perte de qualité."}
+        ],
+
+        "descriptionsDessous":[
+            {
+                "title":"Marque",
+                "value":"Sony"
+            },
+            {
+                "title":"Couleur",
+                "value":"Noir"
+            },
+            {
+                "title":"Connexions",
+                "value":"Bluetooth"
+            },
+            {
+                "title":"Total Usb Ports",
+                "value":"1"
+            },
+            {
+                "title":"Type de haut-parleur",
+                "value":"Barre de son, Caisson de basse"
+            },
+            {
+                "title":"Puissance de sortie maximale du haut-parleur",
+                "value":"1 Watts"
+            }
+        ],
+
+        "categories":[
+            {"categorie":"Tv-Image-Son" },
+            {"categorie":"Home-cinéma" },
+            {"categorie":"Barre de son"}
+        ],
+
+        "caracteristiques":[
+            {"caracteristique":"Sony"},
+            {"caracteristique":"Noir"},
+            {"caracteristique":"1000Dt - 2000Dt"},
+            {"caracteristique":"Dolby Atmos"}
+
+            
+        ]
+
+    
+    },
+
+
+
+    {
+        "nom":"Samsung soundbar",
+        
+        "prixVente": 2490,
+        "prixAchat": 200,
+        
+        "couleur":"Noir",
+        "marque":"Samsung",
+        "ref":"HW-Q70R",
+        "disponibilite":"en stock",
+        
+        "prixPromo":2190,
+        "dateDebut":"15/02/2021",
+        "dateFin":"15/03/2021",
+
+        "images":[
+            {
+                "ordeur":"0",
+                "image":"Barre_de_son_Samsung_HW-Q70R.jpg"
+            },
+    
+            {
+                "ordeur":"1",
+                "image":"Barre_de_son_Samsung_HW-Q70R_1.jpg"
+            },
+    
+            {
+                "ordeur":"2",
+                "image":"Barre_de_son_Samsung_HW-Q70R_2.jpg"
+            },
+            {
+                "ordeur":"3",
+                "image":"Barre_de_son_Samsung_HW-Q70R_3.jpg"
+            },
+            {
+                "ordeur":"4",
+                "image":"Barre_de_son_Samsung_HW-Q70R_4.jpg"
+            },
+            {
+                "ordeur":"5",
+                "image":"Barre_de_son_Samsung_HW-Q70R_5.jpg"
+            }
+        ],
+
+        
+        "descriptionsDessus":[
+            {"ligne":"Product Dimensions: 43.3 W x 2.32 H x 3.93 D | Spk (sub woofer) Net Dimension: 8.07 W x 15.86 H x 15.86 D"},
+            {"ligne":"Includes: Remote Control, Battery, Wall Mount Kit and HDMI Cable"},
+            {"ligne":"Power Source Type: Corded Electric"}
+
+        ],
+
+        "descriptionsDessous":[
+      
+        ],
+
+        "categories":[
+            {"categorie":"Tv-Image-Son" },
+            {"categorie":"Home-cinéma" },
+            {"categorie":"Barre de son"}
+        ],
+
+        "caracteristiques":[
+            {"caracteristique":"Samsung"},
+            {"caracteristique":"Noir"},
+            {"caracteristique":"plus de 2000dt"},
+            {"caracteristique":"Dolby Atmos" },
+            {"caracteristique":"Assistant vocal intégré"}
+
+            
+        ]
+
+    
+    },
+
+
+    {
+        "nom":"Samsung Barre de son",
+        
+        "prixVente": 2490,
+        "prixAchat": 200,
+        
+        "couleur":"Noir",
+        "marque":"Samsung",
+        "ref":"HW-R450",
+        "disponibilite":"en stock",
+        
+        "prixPromo":2190,
+        "dateDebut":"15/02/2021",
+        "dateFin":"15/03/2021",
+
+        "images":[
+            {
+                "ordeur":"0",
+                "image":"Barre_de_son_Samsung_HW-R450.jpg"
+            },
+    
+            {
+                "ordeur":"1",
+                "image":"Barre_de_son_Samsung_HW-R450_1.jpg"
+            },
+    
+            {
+                "ordeur":"2",
+                "image":"Barre_de_son_Samsung_HW-R450_2.jpg"
+            }
+        ],
+
+        
+        "descriptionsDessus":[
+            {"ligne":"Barre de son, Caisson de basse"},
+            {"ligne":"Puissance de sortie maximale du haut-parleur 200 Watts"},
+            {"ligne":"Produit de la marque Samsung"}
+
+        ],
+
+        "descriptionsDessous":[
+      
+        ],
+
+        "categories":[
+            {"categorie":"Tv-Image-Son" },
+            {"categorie":"Home-cinéma" },
+            {"categorie":"Barre de son"}
+        ],
+
+        "caracteristiques":[
+            {"caracteristique":"Samsung"},
+            {"caracteristique":"Noir"},
+            {"caracteristique":"plus de 2000dt"},
+            {"caracteristique":"DTS" },
+            {"caracteristique":"Assistant vocal intégré"}
+
+            
+        ]
+
+    
+    },
+    {
+        "nom":"Yamaha MusicCast ",
+        
+        "prixVente": 2890,
+        "prixAchat": 200,
+        
+        "couleur":"Noir",
+        "marque":"Yamaha",
+        "ref":"YSP-2700",
+        "disponibilite":"en stock",
+        
+        "prixPromo":0,
+        "dateDebut":"15/02/2021",
+        "dateFin":"15/03/2021",
+
+        "images":[
+            {
+                "ordeur":"0",
+                "image":"Yamaha_MusicCast_YSP-2700.jpg"
+            },
+    
+            {
+                "ordeur":"1",
+                "image":"Yamaha_MusicCast_YSP-2700_1.jpg"
+            },
+    
+            {
+                "ordeur":"2",
+                "image":"Yamaha_MusicCast_YSP-2700_2.jpg"
+            },
+            {
+                "ordeur":"3",
+                "image":"Yamaha_MusicCast_YSP-2700_3.jpg"
+            },
+    
+            {
+                "ordeur":"4",
+                "image":"Yamaha_MusicCast_YSP-2700_4.jpg"
+            }
+        ],
+
+        
+        "descriptionsDessus":[
+            {"ligne":"Technologie Digital Sound Projector avec seize haut-parleurs en ligne pour un son surround 7.1 authentique"},
+            {"ligne":"MusicCast pour profiter de sa musique dans toutes les pièces"},
+            {"ligne":"Compatible avec l'audio Haute Résolution 192 kHz / 24-bit (Flac / WAV / AIFF)"},
+            {"ligne":"Bluetooth® pour streaming musical sans fil (SBC)"},
+            {"ligne":"Dix programmes CINEMA au choix"}
+
+        ],
+
+        "descriptionsDessous":[
+      
+        ],
+
+        "categories":[
+            {"categorie":"Tv-Image-Son" },
+            {"categorie":"Home-cinéma" },
+            {"categorie":"Barre de son"}
+        ],
+
+        "caracteristiques":[
+            {"caracteristique":"Yamaha"},
+            {"caracteristique":"Noir"},
+            {"caracteristique":"plus de 2000dt"},
+            {"caracteristique":"DTS" },
+            {"caracteristique":"Assistant vocal intégré"}
+
+            
+        ]
+
+    
+    },
+
+    {
+        "nom":"Samsung Barre de Son sans Fil 5.1 360 W ",
+        
+        "prixVente": 1399,
+        "prixAchat": 200,
+        
+        "couleur":"Noir",
+        "marque":"Samsung",
+        "ref":"hw-n650",
+        "disponibilite":"en stock",
+        
+        "prixPromo":0,
+        "dateDebut":"15/02/2021",
+        "dateFin":"15/03/2021",
+
+        "images":[
+            {
+                "ordeur":"0",
+                "image":"Barre_de_son_Samsung_hw-n650.jpg"
+            },
+    
+            {
+                "ordeur":"1",
+                "image":"Barre_de_son_Samsung_hw-n650_1.jpg"
+            },
+    
+            {
+                "ordeur":"2",
+                "image":"Barre_de_son_Samsung_hw-n650_2.jpg"
+            },
+            {
+                "ordeur":"3",
+                "image":"Barre_de_son_Samsung_hw-n650_3.jpg"
+            },
+    
+            {
+                "ordeur":"4",
+                "image":"Barre_de_son_Samsung_hw-n650_4.jpg"
+            }
+        ],
+
+        
+        "descriptionsDessus":[
+            {"ligne":"5.1 CH, 8 haut-parleurs et Bluetooth & Wifi pour streaming"},
+            {"ligne":"Avec Samsung Acoustic Beam, à technologie brevetée de Samsung pour un son large, dynamique et multi-directionnel"},
+            {"ligne":"L'intérieur de leurs 3 canaux, le Central se destina de vers créer un canal pour dialogues, spécifiquement destiné aux dialogues. Un son plus clair et précis"},
+            {"ligne":"Bypass 4 K UHD vous pouvez connecter votre lecteur/4 K ou console de jeux à la barre. La barre lira le audio et au même temps enverra signal de vidéo 4 K au téléviseur"},
+            {"ligne":"Avec one Remote, les barres de son de Samsung, une fois emparejadas avec les téléviseurs, peuvent être directement contrôlée avec un seul bouton (du téléviseur par exemple)"}
+
+        ],
+
+        "descriptionsDessous":[
+      
+        ],
+
+        "categories":[
+            {"categorie":"Tv-Image-Son" },
+            {"categorie":"Home-cinéma" },
+            {"categorie":"Barre de son"}
+        ],
+
+        "caracteristiques":[
+            {"caracteristique":"Samsung"},
+            {"caracteristique":"Noir"},
+            {"caracteristique":"1000Dt - 2000Dt"},
+            {"caracteristique":"Dolby Atmos" },
+            {"caracteristique":"Q-Symphony (Samsung)"}
+
+            
+        ]
+
+    
+    },
+    {
+        "nom":"JBL - Barre de Son 5.1 ",
+        
+        "prixVente": 2490,
+        "prixAchat": 200,
+        
+        "couleur":"Noir",
+        "marque":"JBL",
+        "ref":"JBL - Barre de Son 5.1",
+        "disponibilite":"en stock",
+        
+        "prixPromo":0,
+        "dateDebut":"15/02/2021",
+        "dateFin":"15/03/2021",
+
+        "images":[
+            {
+                "ordeur":"0",
+                "image":"Barre_de_son_JBL_Bar5.1.jpg"
+            },
+    
+            {
+                "ordeur":"1",
+                "image":"Barre_de_son_JBL_Bar5.1_1.jpg"
+            },
+    
+            {
+                "ordeur":"2",
+                "image":"Barre_de_son_JBL_Bar5.1_2.jpg"
+            },
+            {
+                "ordeur":"3",
+                "image":"Barre_de_son_JBL_Bar5.1_3.jpg"
+            },
+    
+            {
+                "ordeur":"4",
+                "image":"Barre_de_son_JBL_Bar5.1_4.jpg"
+            }
+        ],
+
+        
+        "descriptionsDessus":[
+            {"ligne":"Son surround JBL 5.1 avec puissance de 510W"},
+            {"ligne":"Enceintes surround sans fi l détachables alimentées par une batterie"},
+            {"ligne":"Graves exceptionnels depuis un caisson de basses sans fi l au woofer 250 mm"},
+            {"ligne":"Véritable connectivité 4K grâce à 3 entrées et sorties HDMI (ARC)"},
+            {"ligne":"Streaming de musique sans fi l avec Bluetooth"}
+
+        ],
+
+        "descriptionsDessous":[
+      
+        ],
+
+        "categories":[
+            {"categorie":"Tv-Image-Son" },
+            {"categorie":"Home-cinéma" },
+            {"categorie":"Barre de son"}
+        ],
+
+        "caracteristiques":[
+            {"caracteristique":"JBL"},
+            {"caracteristique":"Noir"},
+            {"caracteristique":"1000Dt - 2000Dt"},
+            {"caracteristique":"HDMI/USB" }
+
+            
+        ]
+
+    
+    },
+
+    {
+        "nom":"Harman Kardon ",
+        
+        "prixVente": 3599,
+        "prixAchat": 200,
+        
+        "couleur":"Noir",
+        "marque":"Harman Kardon",
+        "ref":"Harman Kardon",
+        "disponibilite":"en stock",
+        
+        "prixPromo":0,
+        "dateDebut":"15/02/2021",
+        "dateFin":"15/03/2021",
+
+        "images":[
+            {
+                "ordeur":"0",
+                "image":"Barre_de_son_harman_kardon.jpg"
+            },
+    
+            {
+                "ordeur":"1",
+                "image":"Barre_de_son_harman_kardon_1.jpg"
+            },
+    
+            {
+                "ordeur":"2",
+                "image":"Barre_de_son_harman_kardon_2.jpg"
+            },
+            {
+                "ordeur":"3",
+                "image":"Barre_de_son_harman_kardon_3.jpg"
+            },
+    
+            {
+                "ordeur":"4",
+                "image":"Barre_de_son_harman_kardon_4.jpg"
+            }
+        ],
+
+        
+        "descriptionsDessus":[
+            {"ligne":"Puissance élevée (150W)"},
+            {"ligne":"Caisson de basse intégré à la barre"},
+            {"ligne":"Wifi, Bluetooth"},
+            {"ligne":"LxHxP enceinte 115 x 6.2 x 11.5 cm"},
+            {"ligne":"Le + : Écran tactile couleur - Son cinéma surround sans fil - Aide mains libres avec votre voix, basé sur Google Assistant"}
+
+        ],
+
+        "descriptionsDessous":[
+      
+        ],
+
+        "categories":[
+            {"categorie":"Tv-Image-Son" },
+            {"categorie":"Home-cinéma" },
+            {"categorie":"Barre de son"}
+        ],
+
+        "caracteristiques":[
+            {"caracteristique":"Harman Kardon"},
+            {"caracteristique":"Noir"},
+            {"caracteristique":"plus de 2000dt"},
+            {"caracteristique":"DTS" }
+
+            
+        ]
+
+    
+    },
+
+    {
+        "nom":"Barre de son JBL ",
+        
+        "prixVente": 3999,
+        "prixAchat": 200,
+        
+        "couleur":"Noir",
+        "marque":"JBL",
+        "ref":"JBL 9.1",
+        "disponibilite":"en stock",
+        
+        "prixPromo":0,
+        "dateDebut":"15/02/2021",
+        "dateFin":"15/03/2021",
+
+        "images":[
+            {
+                "ordeur":"0",
+                "image":"Barre_de_son_JBL9.1.jpg"
+            },
+    
+            {
+                "ordeur":"1",
+                "image":"Barre_de_son_JBL9.1_1.jpg"
+            },
+    
+            {
+                "ordeur":"2",
+                "image":"Barre_de_son_JBL9.1_2.jpg"
+            },
+            {
+                "ordeur":"3",
+                "image":"Barre_de_son_JBL9.1_3.jpg"
+            },
+    
+            {
+                "ordeur":"4",
+                "image":"Barre_de_son_JBL9.1_4.jpg"
+            },
+            {
+                "ordeur":"4",
+                "image":"Barre_de_son_JBL9.1_5.jpg"
+            }
+        ],
+
+        
+        "descriptionsDessus":[
+            {"ligne":"Amenez le cinéma dans votre salon ! Grâce à la barre de son 9.1 de JBL, ses haut-parleurs et son caisson de basses sans fil, plongez entièrement dans l'univers de vos divertissements préférés"},
+            {"ligne":"Les deux haut-parleurs latéraux Surround sans fil, détachables et indépendants, et le caisson de basses de 10 pouces délivrent un son sans défaut et des basses profondes et intenses"},
+            {"ligne":"Grâce à la connectivité Bluetooth 4.2, écoutez votre musique préférée depuis tous vos appareils : transformez votre salon en piste de danse, ou savourez un livre audio depuis votre canapé"},
+            {"ligne":"Le son JBL Surround vous offre une expérience immersive totale / Haut-parleurs détachables sans fil orientés vers le haut qui diffusent le son du sol au plafond / Dolby Atmos"}
+           
+        ],
+
+        "descriptionsDessous":[
+      
+        ],
+
+        "categories":[
+            {"categorie":"Tv-Image-Son" },
+            {"categorie":"Home-cinéma" },
+            {"categorie":"Barre de son"}
+        ],
+
+        "caracteristiques":[
+            {"caracteristique":"JBL"},
+            {"caracteristique":"Noir"},
+            {"caracteristique":"plus de 2000dt"},
+            {"caracteristique":"Dolby Atmos" }
+
+            
+        ]
+
+    
+    },
+    {
+        "nom":"Samsung Barre de Son sans Fil Sound  ",
+        
+        "prixVente": 1799,
+        "prixAchat": 200,
+        
+        "couleur":"Noir",
+        "marque":"Samsung",
+        "ref":"HW-MS650",
+        "disponibilite":"en stock",
+        
+        "prixPromo":1299,
+        "dateDebut":"15/02/2021",
+        "dateFin":"15/03/2021",
+
+        "images":[
+            {
+                "ordeur":"0",
+                "image":"barre_de_son_Samsung_HW-MS650.jpg"
+            },
+    
+            {
+                "ordeur":"1",
+                "image":"barre_de_son_Samsung_HW-MS650_1.jpg"
+            },
+    
+            {
+                "ordeur":"2",
+                "image":"barre_de_son_Samsung_HW-MS650_2.jpg"
+            },
+            {
+                "ordeur":"3",
+                "image":"barre_de_son_Samsung_HW-MS650_3.jpg"
+            },
+    
+            {
+                "ordeur":"4",
+                "image":"barre_de_son_Samsung_HW-MS650_4.jpg"
+            }
+        ],
+
+        
+        "descriptionsDessus":[
+            {"ligne":"3 canaux avec woofer intégré 9 haut-parleurs (3 tweeters, 6 woofers)."},
+            {"ligne":"Technologie contrôle multi-speaker qui assure un mouvement simultané et coordonné des enceintes qui transforment les sons graves."},
+            {"ligne":"Annulation de distorsion algorithme breveté par Samsung qui recrée le signal audio et pré-ajuste le signal en réduisant la distorsion."},
+            {"ligne":"Une fois appareillé avec les téléviseurs Samsung, la télé et la barre de son peuvent être contrôlées avec une seule télécommande.Le son JBL Surround vous offre une expérience immersive totale / Haut-parleurs détachables sans fil orientés vers le haut qui diffusent le son du sol au plafond / Dolby Atmos"}
+            {"ligne":"Les barres Sound + sont compatibles avec le kit TV wmn300sb qui permet d'accrocher la barre au téléviseur sans faire de trous dans le mur"}
+        ],
+
+        "descriptionsDessous":[
+      
+        ],
+
+        "categories":[
+            {"categorie":"Tv-Image-Son" },
+            {"categorie":"Home-cinéma" },
+            {"categorie":"Barre de son"}
+        ],
+
+        "caracteristiques":[
+            {"caracteristique":"Samsung"},
+            {"caracteristique":"Noir"},
+            {"caracteristique":"1000Dt - 2000Dt"},
+            {"caracteristique":"Dolby Atmos" }
+
+            
+        ]
+
+    
+    }
+
+
+
+]
